@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Sharing projects and ideas.
 - 📫 How to reach me @jovicth on instagram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be a English Teacher a short time ago XD
+- ⚡ Fun fact: I used to be an English Teacher a short time ago XD
 
 <!---
 jovicth/jovicth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
