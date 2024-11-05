@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=[device-width], initial-scale=1.0">
+    <title>Home</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+
+<body>
+
+
+
+<header class="main-header">
+    <nav class="navbar">
+<div class="icon">
+
+<h2 class="logo">Lojinha feia</h2>
+
+</div>
+
+
+<div class="menu">  
+    
+    <ul>
+    <li> <a href="index_pratica1.html" target="_blank">HOME</a></li>
+    <li><a href="materiais.html">Materiais</a> </li>
+    <li><a href="contatos.html">Contatos</a></li>
+    <li><a href="praticas.html">Práticas</a></li>
+    
+    </ul>
+    <img src="https://www.conjur.com.br/img/b/em/emoji-joinha.jpeg"
+    
+    
+</div>
+
+
+
+
+
+<div class="search">
+    
+    <input class="srch" type="search"  placeholder="Consulte aqui"/>  
+<button class="btn">Pesquisar!</button>
+
+</div>
+
+  </nav>
+
+
+</header>
+
+
+<main class="main">
+
+
+
+
+<footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
